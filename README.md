@@ -56,9 +56,9 @@
 
 ![14.compose.yaml文件](14.compose.yaml文件.png)
 
-### 15.理解Dockerfilepng
+### 15.理解Dockerfile
 
-![15.理解Dockerfilepng](15.理解Dockerfilepng.png)
+![15.理解Dockerfile](15.理解Dockerfile.png)
 
 ### 16.编写Dockerfile
 
